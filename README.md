@@ -3,7 +3,8 @@
 ### alguno de los temas que vimos:
 
 - se genero una tabla llamada dbo.Usuario
-- se genero SPs que realizan la accion de un CRUD 
+- se genero SPs que realizan la accion de un CRUD
+- el script que contiene la informacion de BD esta en la carpeta SQL dentro del proyecto 
 - se implemento un WebApi donde aplicamos la interfaz, conexion por medio de configuracion y los metodos que tenemos en el controlador:UserController
 - cada metodo tiene su propia accion para realizar el CRUD (HttpGet,HttpPut,HttpPost,HttpDelete)
 - creamos una cuenta de github y creamos un repositorio desde VS y se aplicaron cambios para realizar los comando commit y push para subirlos
