@@ -6,6 +6,7 @@
 - se genero SPs que realizan la accion de un CRUD 
 - se implemento un WebApi donde aplicamos la interfaz, conexion por medio de configuracion y los metodos que tenemos en el controlador:UserController
 - cada metodo tiene su propia accion para realizar el CRUD (HttpGet,HttpPut,HttpPost,HttpDelete)
+- creamos una cuenta de github y creamos un repositorio desde VS y se aplicaron cambios para realizar los comando commit y push para subirlos
 
 ## alunas pruebas realizadas 
 <img width="921" height="454" alt="image" src="https://github.com/user-attachments/assets/99755426-4f1f-4cf0-983d-a697826ecee0" />
